@@ -1,0 +1,6 @@
+langchain
+langchain-core
+langchain-google-genai
+python-dotenv
+langchain-huggingface
+langchain-community
