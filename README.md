@@ -32,8 +32,8 @@ Add your screenshots to a `screenshots/` folder and update the paths below.
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/SUNRAKU-007/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/SUNRAKU-007/City-Intelligence.git
+cd City-Intelligence
 ```
 
 ### 2. Create a virtual environment (recommended)
